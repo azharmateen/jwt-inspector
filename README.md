@@ -1,5 +1,8 @@
 # jwt-inspector
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 Offline JWT decoder, verifier, and editor. Never paste tokens into random websites again.
 
 ## Installation
